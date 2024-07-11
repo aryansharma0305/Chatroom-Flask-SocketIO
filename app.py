@@ -183,7 +183,3 @@ def roomlobby(roomID):
 
 
 
-if __name__=="__main__":
-    
-
-    app.run(debug=True)
