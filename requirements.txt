@@ -1,4 +1,3 @@
-random
 flask
 flask-socket.io
 gunicorn
