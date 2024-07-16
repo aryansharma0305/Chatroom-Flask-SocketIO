@@ -1,5 +1,4 @@
 flask
 flask-socketio
-gunicorn
 flask_sqlalchemy
 sqlalchemy
