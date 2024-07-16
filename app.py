@@ -54,6 +54,7 @@ def randomroom():
     letters=['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
     word=''
     while True:
+        word=''
         for i in range(5):
             l=random.choice(letters)
             word+=l
@@ -224,7 +225,6 @@ def roomlobby(roomID):
 
 
 
-if __name__=="__main__":
-    
 
-    app.run(debug=True)
+if __name__=="__main__":
+    app.run()
