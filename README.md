@@ -41,9 +41,9 @@ A real-time chatroom built using Flask and SocketIO.
 ## Screenshots
 Below is an example of the chatroom in action:
 
-![Chat Interface](ss1.jpg)
+![Chat Interface](ss1.png)
 
 
-![Chat Interface](ss2.jpg)
+![Chat Interface](ss2.png)
 
 
