@@ -12,8 +12,8 @@ A real-time chatroom built using Flask and SocketIO.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/flask-socket-chat.git
-   cd flask-socket-chat
+   git clone https://https://github.com/aryansharma0305/Chatroom-Flask-SocketIO
+   cd Chatroom-Flask-SocketIO
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -41,6 +41,9 @@ A real-time chatroom built using Flask and SocketIO.
 ## Screenshots
 Below is an example of the chatroom in action:
 
-![Chat Interface](screenshot.jpg)
+![Chat Interface](ss1.jpg)
+
+
+![Chat Interface](ss2.jpg)
 
 
